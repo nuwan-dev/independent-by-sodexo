@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sodexo_top_navs",
+  "info": {
+    "singularName": "sodexo-top-nav",
+    "pluralName": "sodexo-top-navs",
+    "displayName": "sodexo-top-nav",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NavLink": {
+      "type": "string"
+    }
+  }
+}
